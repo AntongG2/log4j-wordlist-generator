@@ -1,3 +1,4 @@
+Worlist with bypass for WAF for lo4j
 Open changer.py with notepad
 in line fout.write(line.replace('****', 'test')), change "test" with your collaborator, save, and run the script.
 
